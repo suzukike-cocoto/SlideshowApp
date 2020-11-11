@@ -13,6 +13,7 @@
 		EC7A627D255A925500301F11 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC7A627B255A925500301F11 /* Main.storyboard */; };
 		EC7A627F255A925800301F11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC7A627E255A925800301F11 /* Assets.xcassets */; };
 		EC7A6282255A925800301F11 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC7A6280255A925800301F11 /* LaunchScreen.storyboard */; };
+		EC7A628A255A92A400301F11 /* SelectImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7A6289255A92A400301F11 /* SelectImageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EC7A627E255A925800301F11 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC7A6281255A925800301F11 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC7A6283255A925800301F11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC7A6289255A92A400301F11 /* SelectImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectImageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EC7A6275255A925500301F11 /* AppDelegate.swift */,
 				EC7A6277255A925500301F11 /* SceneDelegate.swift */,
 				EC7A6279255A925500301F11 /* ViewController.swift */,
+				EC7A6289255A92A400301F11 /* SelectImageViewController.swift */,
 				EC7A627B255A925500301F11 /* Main.storyboard */,
 				EC7A627E255A925800301F11 /* Assets.xcassets */,
 				EC7A6280255A925800301F11 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC7A628A255A92A400301F11 /* SelectImageViewController.swift in Sources */,
 				EC7A627A255A925500301F11 /* ViewController.swift in Sources */,
 				EC7A6276255A925500301F11 /* AppDelegate.swift in Sources */,
 				EC7A6278255A925500301F11 /* SceneDelegate.swift in Sources */,
